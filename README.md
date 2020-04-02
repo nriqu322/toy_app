@@ -1,24 +1,37 @@
-# README
+# Toy App
+This is a tutorial to learn about CRUD with a very simple twitter-like app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# From the "Learn Enough to be Dangerous" Collection
+*Link to the [Chapter 2 of The Rails Tutorial by Michael Hartl](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app#cha-a_toy_app)
 
-Things you may want to cover:
 
-* Ruby version
+## Live Demo
 
-* System dependencies
+[Live Demo Link](https://cherry-surprise-69175.herokuapp.com/)
 
-* Configuration
+### Prerequisites
+* Ruby installed: *Please go to this [link](https://www.theodinproject.com/courses/web-development-101/lessons/installing-ruby) if you need to install ruby*
 
-* Database creation
+### Usage
+* A very simple twitter-like app to introduce new users and micropost.
 
-* Database initialization
+## Made with
+* Ruby 2.6.5
+* Rails 5.2.4.2
 
-* How to run the test suite
+## Author ![Hireable](https://img.shields.io/badge/HIREABLE-YES-yellowgreen&?style=for-the-badge)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Luis Saavedra**
 
-* Deployment instructions
+- Github: [@nriqu322](https://github.com/nriqu322)
+- Twitter: [@nriqu322](https://twitter.com/nriqu322)
+- Linkedin: [Luis Saavedra](https://linkedin.com/in/luis-saavedra-sanchez/)
 
-* ...
+## Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check [here](../../issues/) for issues.
+
+## Show your support
+Give a ⭐️ if you like this project!
